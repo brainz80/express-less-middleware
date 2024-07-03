@@ -1,6 +1,6 @@
 ## Express LESS Middleware [![Build Status](https://travis-ci.org/vernak2539/express-less-middleware.svg?branch=master)](https://travis-ci.org/vernak2539/express-less-middleware) [![Coverage Status](https://coveralls.io/repos/vernak2539/express-less-middleware/badge.svg?branch=coveralls_support)](https://coveralls.io/r/vernak2539/express-less-middleware?branch=master)
 
-This middleware is designed to compile LESS on the fly.
+This middleware is designed to compile LESS on the fly. This version uses LESS v4.2.0.
 
 [![NPM](https://nodei.co/npm/express-less-middleware.png?downloads=true)](https://nodei.co/npm/express-less-middleware/) [![Greenkeeper badge](https://badges.greenkeeper.io/vernak2539/express-less-middleware.svg)](https://greenkeeper.io/)
 
