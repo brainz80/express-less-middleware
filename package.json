@@ -1,7 +1,7 @@
 {
   "name": "express-less-middleware",
   "version": "4.2.0",
-  "description": "Compiles LESS on a per request basis in Express",
+  "description": "Compiles LESS on a per request basis in Express. This version uses LESS v4.2.0",
   "main": "./lib/less-middleware",
   "license": "MIT",
   "author": "Alex Vernacchia <alvernacchia@gmail.com>",
